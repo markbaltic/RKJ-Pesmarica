@@ -1,8 +1,3 @@
 # RKJ-Pesmarica
 
-Pesmi je treba pisat v eno datoteko, katere vsebino bom potem prekopiral v datoteko "Sample" na mojem računalniku. Potem bo pa ta datoteka sama zgenerirala vse potrebno (za enkrat sem pogruntu le to opcijo).
-
-Paket se pobere tukaj: http://songs.sourceforge.net/index.html
-Se splača preletet kratko dokumentacijo, sam da dobiš občutek, kaj vse paket zna.
-
-Baje, da je treba delat v Vim, ker drugje zna malo hecat.
+Pesmi začneš pisat tako, da začneš z \begin{guitar}, in potem pišeš akorde v zavite oklepaje (npr. [C]). Za zvišane oz. znižane akorde napišeš zraven # oz. b (npr. [C#] oz. [Cb]). Če je akord napisan pred šumnikom, se bo LaTex pritožil (vrjetno ga moti strešica in ne more napisat akorda nad črko). Možni rešitvi sta dve: napišeš akord in nato presledek ( [C] Šalala) ali pa napišeš za šumnikom (Š[C]alalala). Katera rešitev je bolj estetska, še nisem ugotovil.
