@@ -3,3 +3,6 @@
 \contentsline {section}{\numberline {}SANJE}{4}
 \contentsline {section}{\numberline {}TISTO MALO SONCA}{5}
 \contentsline {section}{\numberline {}ONA}{6}
+\contentsline {section}{\numberline {}SIVE CESTE}{6}
+\contentsline {section}{\numberline {}KIDS}{7}
+\contentsline {section}{\numberline {}WOLVES WITHOUTH TEETH}{8}
