@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.11)  28 JUN 2016 23:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.11)  2 JUL 2016 01:07
 entering extended mode
 **Kavo_akordi.tex
 (Kavo_akordi.tex
@@ -289,25 +289,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 195--198
 []
  []
 
-[7] [8] [9] (Kavo_akordi.aux) ) 
+[7] [8] [9] [10]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 394.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 394.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 394.
+ [11] (Kavo_akordi.aux) ) 
 Here is how much of TeX's memory you used:
- 827 strings out of 493698
- 8409 string characters out of 3144415
+ 842 strings out of 493698
+ 8561 string characters out of 3144415
  61166 words of memory out of 3000000
- 4199 multiletter control sequences out of 15000+200000
- 9712 words of font info for 22 fonts, out of 3000000 for 9000
+ 4208 multiletter control sequences out of 15000+200000
+ 11535 words of font info for 28 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 23i,5n,17p,143b,186s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-
-super/cm-super-t1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/
-sfbx1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1200.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0800.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on Kavo_akordi.pdf (9 pages, 117252 bytes).
+ 23i,5n,17p,147b,186s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/
+cm-super-t1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/cm-super/sfrm0800.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/cm-super/sfti1000.pfb>
+Output written on Kavo_akordi.pdf (11 pages, 137946 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
