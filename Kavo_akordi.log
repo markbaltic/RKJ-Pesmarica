@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.11)  2 JUL 2016 01:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.11)  6 JUL 2016 17:44
 entering extended mode
 **Kavo_akordi.tex
 (Kavo_akordi.tex
@@ -254,66 +254,117 @@ Package: toolbox 2004/04/29 v5.1
 )
 \guitarBox=\box26
 \guitarDim=\skip43
-) (Kavo_akordi.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2014/10/28 v1.8i multicolumn formatting (FMi)
+\c@tracingmulticols=\count87
+\mult@box=\box27
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count88
+\c@collectmore=\count89
+\doublecol@number=\count90
+\multicoltolerance=\count91
+\multicolpretolerance=\count92
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip44
+\multicolbaselineskip=\skip45
+\partial@page=\box28
+\last@line=\box29
+\maxbalancingoverflow=\dimen108
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\c@columnbadness=\count93
+\c@finalcolumnbadness=\count94
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\mc@col@check@num=\count95
+)
+(Kavo_akordi.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
  (Kavo_akordi.toc)
 \tf@toc=\write3
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 183--186
- [] []\T1/cmr/m/n/10 mmm, []mmm, []druge ni poti, []ki vodijo[]v son£ne dni[][]
-
+Underfull \hbox (badness 10000) in paragraph at lines 205--208
+ [] []\T1/cmr/m/n/10 ki vodijo[]v son£ne dni[][]
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 189--193
- [] \T1/cmr/m/n/10 Sive c[]est[]e, k avant[]uram kli£ejo[][]Nove zgo[]dbe pi≤ej
-o[]
+Underfull \hbox (badness 10000) in paragraph at lines 328--328
+[]\T1/cmr/bx/n/14.4 ÉE BI MIDVA SE
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 195--198
- [] []\T1/cmr/m/n/10 ces[]te, skrivno[]sti nji-hove, []razdalje s[]o za£arane[]
-[]
+[7]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 420.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 420.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 420.
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 504--509
+ [] \T1/cmr/m/n/10 Sa tvo-jeg []izvora[]moja se []du≤a
  []
 
-[7] [8] [9] [10]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 394.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 394.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 394.
- [11] (Kavo_akordi.aux) ) 
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 519--521
+ [] \T1/cmr/m/n/10 U mo-jim ve[]nama[]jo≤ je nje[]nog
+ []
+
+[10] [11] (Kavo_akordi.aux) ) 
 Here is how much of TeX's memory you used:
- 842 strings out of 493698
- 8561 string characters out of 3144415
- 61166 words of memory out of 3000000
- 4208 multiletter control sequences out of 15000+200000
+ 956 strings out of 493698
+ 10250 string characters out of 3144415
+ 69771 words of memory out of 3000000
+ 4318 multiletter control sequences out of 15000+200000
  11535 words of font info for 28 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 23i,5n,17p,147b,186s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/
-cm-super-t1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
-i8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/cm-super/sfrm0800.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/cm-super/sfti1000.pfb>
-Output written on Kavo_akordi.pdf (11 pages, 137946 bytes).
+ 23i,5n,17p,159b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-su
+per/cm-super-t1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0800.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/cm-super/sfti1000.pfb>
+Output written on Kavo_akordi.pdf (11 pages, 145691 bytes).
 PDF statistics:
  67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
